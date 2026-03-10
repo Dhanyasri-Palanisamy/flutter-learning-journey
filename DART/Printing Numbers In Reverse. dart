@@ -1,0 +1,6 @@
+void main(){
+  int n=20;
+  for(int i=n;i>0;i--){
+    print(i);
+  }
+}
